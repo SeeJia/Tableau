@@ -17,6 +17,8 @@ You can access the dashboard via the following link:
 
 #### Summary
 - **Tools**
+  - API: [OpenWeather API](https://openweathermap.org/api)
   - Web Scraping: Python's Beautiful Soup library
   - Dataset: Excel
   - Visualization: Tableau
+
